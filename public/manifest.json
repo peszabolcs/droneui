@@ -1,7 +1,7 @@
 {
-  "name": "EyeSky - Drone Aircraft Inspection",
-  "short_name": "EyeSky",
-  "description": "Autonomous drone-based aircraft inspection platform",
+  "name": "FlightCore Dynamic Solutions - RWS-700 Runway Watch System",
+  "short_name": "FlightCore",
+  "description": "RWS-700 Runway Watch System - Advanced drone-based aircraft inspection platform",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0a0a0a",

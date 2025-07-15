@@ -11,7 +11,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Architecture
 
-This is a React + TypeScript + Vite Progressive Web App (PWA) for EyeSky, an autonomous drone aircraft inspection platform.
+This is a React + TypeScript + Vite Progressive Web App (PWA) for FlightCore Dynamic Solutions, an autonomous drone aircraft inspection platform.
 
 ### Key Structure
 - **Entry Point**: `src/main.tsx` - React app root with StrictMode
@@ -44,7 +44,7 @@ This is a React + TypeScript + Vite Progressive Web App (PWA) for EyeSky, an aut
 - **Responsive**: Grid-based layout optimized for tablet and desktop (not phone)
 
 ### Mock Data
-All components use realistic mock data for demonstration purposes. No backend integration is implemented - this is a frontend-only application showcasing the complete UI/UX for the EyeSky platform.
+All components use realistic mock data for demonstration purposes. No backend integration is implemented - this is a frontend-only application showcasing the complete UI/UX for the FlightCore Dynamic Solutions platform.
 
 ### TypeScript Configuration
 - Uses project references with `tsconfig.app.json` and `tsconfig.node.json`

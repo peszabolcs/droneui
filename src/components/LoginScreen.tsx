@@ -38,9 +38,9 @@ export default function LoginScreen({ onLogin }: LoginScreenProps) {
                   </defs>
                 </svg>
               </div>
-              <h1>EyeSky</h1>
+              <h1>FlightCore</h1>
             </div>
-            <p className="login-subtitle">Autonomous Drone Aircraft Inspection</p>
+            <p className="login-subtitle">RWS-700 Runway Watch System</p>
           </div>
 
           <form onSubmit={handleSubmit} className="login-form">

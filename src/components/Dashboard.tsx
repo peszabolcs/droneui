@@ -58,7 +58,7 @@ export default function Dashboard({ onLogout }: DashboardProps) {
                 </defs>
               </svg>
             </div>
-            <span>EyeSky</span>
+            <span>FlightCore</span>
           </div>
           
           <div className="drone-selector">

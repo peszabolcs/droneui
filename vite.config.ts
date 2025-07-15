@@ -10,9 +10,9 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'masked-icon.svg'],
       manifest: {
-        name: 'EyeSky - Drone Aircraft Inspection',
-        short_name: 'EyeSky',
-        description: 'Autonomous drone-based aircraft inspection platform',
+        name: 'FlightCore Dynamic Solutions - RWS-700 Runway Watch System',
+        short_name: 'FlightCore',
+        description: 'RWS-700 Runway Watch System - Advanced drone-based aircraft inspection platform',
         theme_color: '#00bfff',
         background_color: '#0a0a0a',
         display: 'standalone',
